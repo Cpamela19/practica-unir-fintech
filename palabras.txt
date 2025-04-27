@@ -1,0 +1,8 @@
+manzana
+perro
+árbol
+casa
+sol
+luna
+montaña
+río
