@@ -1,6 +1,10 @@
 Repositorio de Prácticas de Git - EIEC
 
+
+Este repositorio nos servirá para demostrar el uso de Git en la asignatura de EIEC y muchas cosas mas. Cambios rama DevGuerrero
+
 Este repositorio tiene como objetivo demostrar el uso de Git en la asignatura EIEC, así como abordar otros conceptos relevantes en el desarrollo de software colaborativo.
+
 
 
 Compatibilidad
