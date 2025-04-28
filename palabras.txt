@@ -4,5 +4,3 @@ perro
 casa
 sol
 luna
-montaña
-río
